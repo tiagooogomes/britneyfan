@@ -76,3 +76,6 @@ assistir2.textContent = 'Escutar';
 const assistir3 = document.querySelector('#assistir3');
 assistir3.textContent = 'Escutar';
 
+const mais = document.querySelector('#mais');
+mais.textContent = 'ESCUTE';
+

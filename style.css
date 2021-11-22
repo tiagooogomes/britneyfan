@@ -151,3 +151,12 @@ h3{
     font-size: 15px;
     margin-top: 5%;
 }
+
+#mais{
+    width: 12%;
+    height: 40px;
+    margin-left: 22%;
+    background-color: #d9d0c9;
+    border: none;
+    margin-top: -5%;
+}
