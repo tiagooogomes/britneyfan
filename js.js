@@ -29,10 +29,10 @@ const ba = document.querySelector('#ba');
 ba.textContent = 'BA';
 
 const fa = document.querySelector('#fa');
-fa.textContent = 'Fã?';
+fa.textContent = 'O que sou?';
 
 const muito = document.querySelector('#muito');
-muito.textContent = 'Super';
+muito.textContent = 'Admirador';
 
 const foto = document.querySelector('#foto');
 foto.setAttribute('src', 'img/eu.jpg');
@@ -70,12 +70,28 @@ data3.textContent = '2009';
 const assistir = document.querySelector('#assistir');
 assistir.textContent = 'Escutar';
 
+let link1 = document.querySelector('#link1');
+link1.href = 'https://youtu.be/IlV7RhT6zHs';
+
 const assistir2 = document.querySelector('#assistir2');
 assistir2.textContent = 'Escutar';
+
+let link2 = document.querySelector('#link2');
+link2.href = 'https://youtu.be/LOZuxwVk7TU';
 
 const assistir3 = document.querySelector('#assistir3');
 assistir3.textContent = 'Escutar';
 
+let link3 = document.querySelector('#link3');
+link3.href = 'https://youtu.be/CduA0TULnow';
+
 const mais = document.querySelector('#mais');
 mais.textContent = 'ESCUTE';
+
+let link = document.querySelector('#link');
+link.href = 'https://www.youtube.com/c/britneyspears';
+
+const final = document.querySelector('#final');
+final.textContent = 'by. Aspirante Tiago Santos de Jesus';
+
 
